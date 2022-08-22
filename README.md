@@ -65,34 +65,36 @@ OpenGL project on the Space Shooter
 <p align="center">
 <img src="images/Opening.png" >
 </p>
-
+The above snapshot shows the Welcome Page of the project which contains the details about the project and Where the User can press the “ENTER” to get the Game Menu
 <p>
 </p>
 
 <p align="center">
 <img src="images/Instruction.png" >
 </p>
-
+The above Snapshot shows the Instruction Page where the player can learn how to play the Space shooter Game”
 <p>
+    
 </p>
 
 <p align="center">
 <img src="Menu.png" >
 </p>
-
+The above snapshot shows the Menu page where the User can select between Start Game ,Instruction and Quit”
 <p>
 </p>
 
 <p align="center">
-<img src="images/Game.png" >
-   
+<img src="images/Game.png" > 
 </p>
+The above snapshot shows the gameplay where we can see two players shooting each other and their lives at the top”
 <p>
 </p>
 
 <p align="center">
 <img src="images/Winning.png" >
 </p>
+The Snapshot shows the Player winning Page after a player wins the match”
 # Space-Shooter-Using-OpenGL
 # Space-Shooter-Using-OpenGL
 # Space-Shooter-Using-OpenGL
