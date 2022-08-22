@@ -63,21 +63,35 @@ OpenGL project on the Space Shooter
 </p>
 
 <p align="center">
-<img src="https://imgur.com/Qez9nvx.png" >
+<img src="images/Opening.png" >
 </p>
 
 <p>
 </p>
 
 <p align="center">
-<img src="https://imgur.com/Ds5JO6O.png" >
+<img src="images/Instruction.png" >
 </p>
 
 <p>
 </p>
 
 <p align="center">
-<img src="https://imgur.com/HWO5aoZ.png" >
+<img src="Menu.png" >
+</p>
+
+<p>
+</p>
+
+<p align="center">
+<img src="images/Game.png" >
+   
+</p>
+<p>
+</p>
+
+<p align="center">
+<img src="images/Winning.png" >
 </p>
 # Space-Shooter-Using-OpenGL
 # Space-Shooter-Using-OpenGL
