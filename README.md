@@ -78,7 +78,7 @@ The above Snapshot shows the Instruction Page where the player can learn how to 
 </p>
 
 <p align="center">
-<img src="Menu.png" >
+<img src="images/Menu.png" >
 </p>
 The above snapshot shows the Menu page where the User can select between Start Game ,Instruction and Quit”
 <p>
